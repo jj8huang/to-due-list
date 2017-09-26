@@ -1,0 +1,10 @@
+{
+	"name": "To-Due-List",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Keep track of things you need to do",
+	"browser_action": {
+		"default_icon":"iconTest.png",
+		"default_popup":"todolist.html"
+	}
+}
